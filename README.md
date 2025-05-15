@@ -123,7 +123,7 @@ cv2.destroyAllWindows()
 
 ### RASPI INTERFACE 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/bc61dd80-f688-42be-ab78-c3dbae17f5ea)
 
 
 
